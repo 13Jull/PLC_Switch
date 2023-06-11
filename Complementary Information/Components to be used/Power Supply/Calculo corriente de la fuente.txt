@@ -1,0 +1,10 @@
+Consumo de Energia para diseñar la fuente:
+
+ESP: -Max: 170ma
+TDA5051A: -Max:68ma
+Zero cross Detector: -Aproximacion rapida y exagerada: 10ma
+Relay: -100ma
+
+Total: -338ma
+
+Se usa un 7805 de 1A superficial (MC7805BDTRKGOSCT-ND)
